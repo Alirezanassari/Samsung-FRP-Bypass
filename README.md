@@ -1,5 +1,7 @@
 # Samsung FRP Bypass
 
+the orginal repo => https://github.com/riskeco/Samsung-FRP-Bypass
+
 A blog article available in english and in french explaining how the scripts work can be found [here](https://blog-cyber.riskeco.com/en/analysis-of-samsung-frp-bypass/)  
 
 ## How to use
